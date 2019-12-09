@@ -7,10 +7,19 @@ public class Task {
 
   }
 
+
       public void hi(){
           System.out.println("Hi from intellij");
           
       }
 
+
+
+
+  
+  
+  public String hello(){
+  return"hello from github";
   }
+}
 

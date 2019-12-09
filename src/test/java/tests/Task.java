@@ -8,5 +8,6 @@ public class Task {
   
   
   public String hello(){
-  return"hello from github"}
+  return"hello from github";
+  }
 }

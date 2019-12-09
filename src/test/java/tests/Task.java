@@ -5,4 +5,7 @@ public class Task {
   System.out.println("hello world");
     // added frim github
   }
+  
+  public String hello(){
+  return"hello from github"}
 }
